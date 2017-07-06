@@ -25,3 +25,11 @@ for i in range(0, 5):
     print("%s <-> %s" % (result['en'], result['us']))
 
 ```
+
+# Or simply :
+
+```python
+
+print( RandomEnUsDiff() )
+
+```
