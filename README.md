@@ -1,6 +1,6 @@
 # python-random-en-us-diff
 
-##### v1.0.0
+##### v1.0.1
 
 Cool simple Python module to get random difference between American and English languages.  
   
