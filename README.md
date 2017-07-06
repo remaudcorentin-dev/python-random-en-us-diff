@@ -2,7 +2,8 @@
 
 ##### v1.0.0
 
-Cool simple Python module to get random difference between American and English languages. Isn't life so beautiful ?
+Cool simple Python module to get random difference between American and English languages.  
+Isn't life so beautiful ?
 
 ### Installation
 
