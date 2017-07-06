@@ -26,7 +26,7 @@ for i in range(0, 5):
 
 ```
 
-# Or simply :
+Or simply :
 
 ```python
 
