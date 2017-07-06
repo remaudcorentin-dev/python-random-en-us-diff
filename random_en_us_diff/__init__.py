@@ -3,7 +3,6 @@
 from random import randint
 
 data= [
-{"us": "British English", "en": "American English"},
 {"us": "accommodation", "en": "accommodations"},
 {"us": "action replay", "en": "instant replay"},
 {"us": "aerofoil", "en": "airfoil"},
