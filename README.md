@@ -34,3 +34,5 @@ Or simply :
 >>> print( RandomEnUsDiff() )
 
 ```
+
+(Note : 'US' & 'EN' are reversed...)
