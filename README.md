@@ -30,6 +30,7 @@ Or simply :
 
 ```python
 
-print( RandomEnUsDiff() )
+>>> from random_en_us_diff import RandomEnUsDiff
+>>> print( RandomEnUsDiff() )
 
 ```
